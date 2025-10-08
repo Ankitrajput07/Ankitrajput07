@@ -30,10 +30,10 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: `ankitrajput15557@gamil.como`  
+- 📧 Email: `ankitrajput15557@gamil.com`  
 - 💼 LinkedIn: [Ankit Rajput](https://www.linkedin.com/in/ankitrajput07)  
 - 🐦 Twitter: [@AnkitRajput_7](https://x.com/AnkitRajput_7?t=tl7sQCRVSznwxxh0UGxB8g&s=08)  
-- 🌐 Portfolio (Coming Soon!)
+- 🌐 Portfolio (https://responsivewebsit07.netlify.app/#))
 
 ---
 
